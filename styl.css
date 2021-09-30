@@ -1,0 +1,33 @@
+#first {
+       text-align: center;
+}
+.pink {
+    
+    color: white;
+    padding: 15px 50px;
+    background-color: rgb(206, 23, 160);
+    border-radius: 4px;
+}
+.white {
+    color: black;
+    padding: 15px 50px;
+    border-radius: 4px;
+}
+.color {
+    color: palevioletred;
+}
+#login {
+    padding: 13px 100px;
+}
+#signup {
+    color: palevioletred;
+    text-decoration: none;
+}
+.form {
+     border-style: outset;
+     color: palevioletred;
+     background-color: rgb(196, 31, 127);
+}
+#login {
+    background-color: rgb(196, 31, 127);
+}
